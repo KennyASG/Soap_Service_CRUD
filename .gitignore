@@ -1,0 +1,8 @@
+
+.DS_Store
+
+.idea/.idea.soap_service/.idea/
+
+bin/Debug/net9.0/
+
+obj/
